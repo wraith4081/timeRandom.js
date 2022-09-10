@@ -39,13 +39,13 @@ random(213, false);
 ```
 
 ```js
-random("Random.js");
+random("timeRandom.js");
 
 // Output: "Error: Seed must be valid a number"
 ```
 
 ```js
-random("Random.js", false);
+random("timeRandom.js", false);
 
 // Output: 0
 ```
